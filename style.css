@@ -1,0 +1,131 @@
+body {
+  background-color: black;
+  background-size: cover;
+  margin: 0px;
+}
+#menu-toggle {
+  display: none;
+  background-color: lightblue;
+  color: black;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+#menu-toggle .a {
+  display: block;
+  margin: 10px 0;
+}
+#header {
+  color: black;
+  text-align: center;
+}
+img {
+  float: left;
+  border: 2px solid lightblue;
+}
+#portfolio {
+  text-align: center;
+}
+.navi ul {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  overflow: hidden;
+}
+.navi a {
+  text-decoration: none;
+  color: antiquewhite;
+  font-size: larger;
+  display: inline-block;
+  text-align: center;
+  padding: 8px 15px;
+  horizontal-align: left;
+}
+.navi a:hover {
+  color: aqua;
+}
+.navi li {
+}
+h1 {
+  color: antiquewhite;
+}
+p {
+  font-size: larger;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+  color: antiquewhite;
+}
+h2 {
+  color: antiquewhite;
+}
+img {
+  border-radius: 20px;
+  height: 90px;
+  width: 100px;
+}
+#home {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+#homep {
+  font-size: large;
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+#about {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+#skill {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+#projects {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+#ed {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+#achieve {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+#contact {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
+#img1 {
+  background-color: white;
+}
+video {
+  width: 400px;
+  height: 300px;
+}
+#book {
+  color: white;
+  border: 2px solid white;
+  border-radius: 20px;
+  padding: 10px;
+}
