@@ -68,6 +68,7 @@ img {
   border-radius: 20px;
   height: 90px;
   width: 100px;
+  postion: relative;
 }
 #home {
   color: white;
